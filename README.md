@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GowthamS2021
 - 👀 I’m interested in Quantum Computing,Machine Learning,Artifical Intelligence and Data Science.
 - 👀 I'm also interested to study more about cybersecurity.
-- 🌱 I’m currently learning Python,Java,various other programming languages.
+- 🌱 I’m currently learning Java,various other programming languages.
 - 🌱 I'm proficient in C++,Python and various libraries in python.
 
 <!---
